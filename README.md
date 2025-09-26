@@ -65,8 +65,9 @@ npm run start:dev
 
 ## 📖 Documentación
 
-- [📚 Docs oficiales de OneInfinity](https://oneinfinite.gitbook.io/v1)
+- [**Docs oficiales de OneInfinity**](https://oneinfinite.gitbook.io/v1)
 
+  <img width="500" height="600" alt="imagen" src="https://github.com/Mateo-Alvarez1/oneinfinity-checkout/blob/master/readme-image.png" />
 
 
 ## 🤝 Contribuciones
