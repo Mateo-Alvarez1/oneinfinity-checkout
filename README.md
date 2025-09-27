@@ -45,8 +45,10 @@ npm install
 3. **Configura tus variables de entorno (.env)**
 
 ```bash
-ONEINFINITY_API_KEY=tu_api_key
-CALLBACK_URL=https://tuapp.com/callback
+ONE_API_KEY=tu_Api_key
+ONE_SECRET_KEY=tu_secret_key
+ONE_API_BASE_PROD=your_api_base_produccion
+NEXT_PUBLIC_BASE_URL=your_public_base_url
 ```
 
 4. **Levanta el servidor**
@@ -59,9 +61,10 @@ npm run start:dev
 
 | Variable              | Descripción                              |
 | --------------------- | ---------------------------------------- |
-| `ONEINFINITY_API_KEY` | Tu API Key privada de OneInfinity        |
-| `CALLBACK_URL`        | URL de callback para confirmar los pagos |
-| `PORT`                | Puerto en el que corre la aplicación     |
+| `ONE_API_KEY`         | Tu API Key privada de OneInfinity        |
+| `ONE_SECRET_KEY`      |tu secret key de OneInfinity              |
+| `ONE_API_BASE_PROD`   | base one url                             |
+|` NEXT_PUBLIC_BASE_URL`| tu url publica                           |
 
 ## 📖 Documentación
 
