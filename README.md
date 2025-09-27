@@ -3,6 +3,12 @@
 Este proyecto implementa una **pasarela de checkout con OneInfinity**, pensada para integrarse fácilmente en aplicaciones web y móviles.  
 El objetivo es simplificar el flujo de pagos con una experiencia de **checkout rápida, segura y personalizable**.
 
+
+>[!IMPORTANT]
+>
+> **UNA VEZ QUE TE VALIDEN LA CUENTA TAMBIEN DEBES PEDIR QUE TE VALIDEN EL DOMAIN SINO TE VA A DAR PROBLEMAS DE ORIGEN**
+
+
 ## ✨ Características
 
 - 🔐 **Pagos seguros** con integración a OneInfinity.
